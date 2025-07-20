@@ -1,0 +1,18 @@
+=========Sunday 20 July 2025 09:24:39 PM IST==========
+Hostname: aditya-HP-Laptop-15-bs0xx
+Uptime: up 10 hours, 29 minutes
+Users logged In: 1
+------------------Memory Usage--------------
+               total        used        free      shared  buff/cache   available
+Mem:            11Gi       3.2Gi       5.5Gi       384Mi       2.9Gi       7.7Gi
+Swap:          2.0Gi       1.0Mi       2.0Gi
+--------------------Disk Usage-------------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.2G  2.2M  1.2G   1% /run
+/dev/sda5       916G  132G  738G  16% /
+tmpfs           5.9G   30M  5.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           1.2G  140K  1.2G   1% /run/user/1000
+--------------------------------------------------
+
